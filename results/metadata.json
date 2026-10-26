@@ -1,0 +1,13 @@
+{
+  "dataset": "Wisconsin Diagnostic Breast Cancer (scikit-learn)",
+  "n_samples": 569,
+  "n_features": 30,
+  "train_samples": 426,
+  "test_samples": 143,
+  "test_size": 0.25,
+  "random_state": 42,
+  "regularization_l2": 0.0001,
+  "gradient_lipschitz_L": 3.2922541013045517,
+  "theoretical_max_step_size": 0.6074865239616536,
+  "n_timing_repeats": 10
+}

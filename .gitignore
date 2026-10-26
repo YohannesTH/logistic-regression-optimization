@@ -1,0 +1,27 @@
+# Environments & dependencies
+.venv/
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# LaTeX auxiliary files (keep final PDF)
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.log
+
+# OS artifacts
+.DS_Store
+Thumbs.db
